@@ -1,7 +1,5 @@
 # Diflux
 
-Ditto for linux
-
 Diflux is a Ditto Clone for Linux
 
 ## What is Ditto
